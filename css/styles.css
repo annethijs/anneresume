@@ -13,6 +13,13 @@ body {
 	background-color: #f8f8fc;
 }
 
+li{
+	color:#756f9d
+		font-family: "Roboto Condensed", sans-serif;
+		font-optical-sizing: auto;
+		font-weight: <weight>;
+		font-style: normal;
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
