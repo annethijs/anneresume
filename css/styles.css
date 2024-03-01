@@ -14,7 +14,6 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-	font-family: Lato, "Kollektif", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #b8e5d1;
 }
 
@@ -51,7 +50,6 @@ body {
 	flex-basis: 1.4em;
 }
 
-.font-wite {
-	color: #ffffff;
+.box-disp {
+	margin: 20px;
 }
-
