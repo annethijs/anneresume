@@ -21,6 +21,15 @@ li {
 	  color:#000 
 	}
 
+h3 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #000; 
+}
+
+
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
