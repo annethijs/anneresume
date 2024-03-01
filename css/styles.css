@@ -50,6 +50,10 @@ body {
 	flex-basis: 1.4em;
 }
 
-.box-disp {
+.box {
 	margin: 20px;
+}
+
+.language-level {
+	border-color: #756f9d; !important;
 }
