@@ -57,3 +57,7 @@ body {
 .language-level {
 	border-color: #756f9d !important;
 }
+
+.language-progress {
+	color: #d3c4e3 !important;
+}
