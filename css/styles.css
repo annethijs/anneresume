@@ -21,10 +21,10 @@ li {
 	  color:#000 
 	}
 
-h3 {
+h4 {
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: weight;
   font-style: normal;
   color: #000; 
 }
