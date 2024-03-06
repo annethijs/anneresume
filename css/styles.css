@@ -22,13 +22,12 @@ li {
 	}
 
 h5 {
-  font-family: "Dancing Script", cursive;
-  font-optical-sizing: auto;
-  font-weight: weight;
-  font-style: normal;
-  color: #000; 
-}
-
+		font-family: "Shadows Into Light", cursive;
+		font-weight: 400;
+		font-style: normal;
+		color: #000; 
+	  }
+	  
 
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -48,7 +47,7 @@ h5 {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "*";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
